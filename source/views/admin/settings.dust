@@ -21,9 +21,9 @@
         <a class="nav-link active" data-toggle="tab" href="#website">{@i18n term="website"/}</a>
         <a class="nav-link" data-toggle="tab" href="#theme">{@i18n term="theme"/}</a>
         <a class="nav-link" data-toggle="tab" href="#preferences">{@i18n term="preferences"/}</a>
-        <a class="nav-link" data-toggle="tab" href="#backups">{@i18n term="backups"/}</a>
+        {! <a class="nav-link" data-toggle="tab" href="#backups">{@i18n term="backups"/}</a> !}
         <a class="nav-link" data-toggle="tab" href="#advanced">{@i18n term="advanced"/}</a>
-        <a class="nav-link" data-toggle="tab" href="#about">{@i18n term="about"/}</a>
+        {! <a class="nav-link" data-toggle="tab" href="#about">{@i18n term="about"/}</a> !}
       </nav>
     </div>
 
